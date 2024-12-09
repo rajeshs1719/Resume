@@ -119,9 +119,9 @@ nav ul li a {
     transition: background-color 0.3s ease;
 }
 
-nav ul li a:hover, nav ul li a.active {
-    background-color: #003d80;
-    color: #fff;
+nav ul li a:hover {
+    background-color: #fff;
+    color: #000000;
 }
 
 /* Adjust spacing below the professional header */
@@ -156,8 +156,9 @@ nav ul li a {
     transition: background-color 0.3s ease;
 }
 
-nav ul li a:hover, nav ul li a.active {
-    background-color: #003d80;
+nav ul li a:hover {
+    background-color: #fff;
+    color: #000000;
 }
 
 /* Dropdown Menu */
@@ -184,8 +185,8 @@ nav ul li a:hover, nav ul li a.active {
 }
 
 .dropdown-menu li a:hover {
-    background-color: #f4f4f9;
-    color: #0056b3;
+    background-color: #fff;
+    color: #000000;
 }
 
 .dropdown:hover .dropdown-menu {
